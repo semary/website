@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Portfolio responsive review</title>
+<style>
+body{margin:24px;background:#eee;color:#222;font:16px system-ui}nav{display:flex;gap:20px}section{margin-top:32px}iframe{display:block;border:1px solid #888;height:900px;background:#08090b}a{color:#135da1}
+</style>
+</head>
+<body>
+<h1>Responsive review</h1>
+<p>Same page, fixed viewport widths. For local development or Netlify deploy previews.</p>
+<nav><a href="#small">320 px</a><a href="#phone">390 px</a><a href="#tablet">768 px</a></nav>
+<section id="small"><h2>320 px</h2><iframe title="Small phone" src="../" width="320"></iframe></section>
+<section id="phone"><h2>390 px</h2><iframe title="Phone" src="../" width="390" loading="lazy"></iframe></section>
+<section id="tablet"><h2>768 px</h2><iframe title="Tablet" src="../" width="768" loading="lazy"></iframe></section>
+</body>
+</html>
