@@ -1,0 +1,2 @@
+# Source archives must not ship in the Netlify deploy root
+*.zip
