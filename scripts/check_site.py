@@ -48,7 +48,8 @@ for product in products:
 assert 'products under one roadmap' in html and 'six products under one roadmap' in llms
 assert 'growth, Q1 2018 to Q4 2018' in html and 'Q1 2018 to Q4 2018' in llms
 assert 'in opportunities identified' in html and '$8M in opportunities identified' in llms
-assert 'not earned revenue' in llms
+assert '## Accuracy and interpretation' not in llms
+assert '>AI profile</a>' not in html
 assert 'Doubled conversion' not in html and '$50K' not in html
 assert 'doubled conversion' not in llms.lower() and '$50K' not in llms
 assert '3 products' not in html and '3 products' not in llms
