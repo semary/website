@@ -50,6 +50,7 @@ assert 'growth, Q1 2018 to Q4 2018' in html and 'Q1 2018 to Q4 2018' in llms
 assert 'in opportunities identified' in html and '$8M in opportunities identified' in llms
 assert 'not earned revenue' in llms
 assert 'Doubled conversion' not in html and '$50K' not in html
+assert 'doubled conversion' not in llms.lower() and '$50K' not in llms
 assert '3 products' not in html and '3 products' not in llms
 assert 'IntersectionObserver' not in html and '.rv{opacity:0' not in html
 assert 'fonts.googleapis.com' not in html
