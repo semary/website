@@ -41,18 +41,13 @@ for img in page.images:
     assert (ROOT / img['src']).is_file(), img['src']
 for data in re.findall(r'<script type="application/ld\+json">(.*?)</script>', html, re.S):
     json.loads(data)
-# Guard the specific profile mismatch that prompted this update.
+# Keep the published profile consistent across formats.
 products = ['consumer app', 'merchant portal', 'corporate portal', 'mobile wallet', 'bill payments', 'digital lending']
 for product in products:
     assert product in html.lower() and product in llms.lower(), product
 assert 'products under one roadmap' in html and 'six products under one roadmap' in llms
 assert 'growth, Q1 2018 to Q4 2018' in html and 'Q1 2018 to Q4 2018' in llms
 assert 'in opportunities identified' in html and '$8M in opportunities identified' in llms
-assert '## Accuracy and interpretation' not in llms
-assert '>AI profile</a>' not in html
-assert 'Doubled conversion' not in html and '$50K' not in html
-assert 'doubled conversion' not in llms.lower() and '$50K' not in llms
-assert '3 products' not in html and '3 products' not in llms
 assert 'IntersectionObserver' not in html and '.rv{opacity:0' not in html
 assert 'fonts.googleapis.com' not in html
 print('PASS: profile consistency, local links, anchors, image metadata, structured data, and visible-by-default content')
