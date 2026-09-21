@@ -7,3 +7,12 @@
   Cache-Control: public, max-age=0, must-revalidate
 /scripts/*
   X-Robots-Tag: noindex, nofollow
+
+/Mohamed_Sameer_CV.pdf
+  Content-Type: application/pdf
+  Content-Disposition: attachment; filename="Mohamed-Sameer-CV.pdf"
+  Cache-Control: public, max-age=0, must-revalidate
+/favicon.ico
+  Cache-Control: public, max-age=0, must-revalidate
+/apple-touch-icon.png
+  Cache-Control: public, max-age=0, must-revalidate

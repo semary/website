@@ -51,3 +51,8 @@ assert 'in opportunities identified' in html and '$8M in opportunities identifie
 assert 'IntersectionObserver' not in html and '.rv{opacity:0' not in html
 assert 'fonts.googleapis.com' not in html
 print('PASS: profile consistency, local links, anchors, image metadata, structured data, and visible-by-default content')
+
+cv = (ROOT / "Mohamed_Sameer_CV.pdf").read_bytes()
+assert cv.startswith(b"%PDF-"), "CV must be a valid PDF file"
+assert b"%%EOF" in cv[-1024:] and len(cv) > 1000, "CV is incomplete"
+print("PASS: CV signature and completeness")
