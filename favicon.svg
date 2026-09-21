@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MS">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#E0A85C"/>
-      <stop offset="1" stop-color="#B8813E"/>
-    </linearGradient>
-  </defs>
-  <rect width="64" height="64" rx="16" fill="url(#g)"/>
-  <text x="32" y="33" text-anchor="middle" dominant-baseline="central"
-        font-family="Archivo, -apple-system, 'Segoe UI', sans-serif"
-        font-size="26" font-weight="800" letter-spacing="-1" fill="#0A0B0D">MS</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mohamed Sameer"><defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#E0A85C"/><stop offset="1" stop-color="#B8813E"/></linearGradient></defs><rect width="64" height="64" rx="15" fill="#E0A85C"/><path transform="translate(1 0) scale(.88 1)" d="M13 43V21h5l6 12 6-12h5v22h-5V30l-6 11-6-11v13z" fill="#0A0B0D"/><path d="M51 25c-2-1-4-2-6-2-3 0-5 1-5 4 0 6 13 3 13 11 0 5-4 7-9 7-4 0-7-1-10-3l3-4c2 2 5 3 7 3 3 0 4-1 4-3 0-4-13-2-13-11 0-5 4-8 10-8 3 0 6 1 9 3z" fill="#0A0B0D" transform="translate(2 0) scale(.94 1)"/></svg>
