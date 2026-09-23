@@ -2,24 +2,15 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<!-- Google Tag Manager (deferred until the page has loaded, so tracking never slows the first view) -->
+<!-- Google Tag Manager: asynchronous loading keeps HTML parsing unblocked. -->
 <script>
 window.dataLayer=window.dataLayer||[];
+window.dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});
 (function(){
-  var started=false;
-  function loadGTM(){
-    if(started)return;started=true;
-    window.dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});
-    var j=document.createElement('script');j.async=true;
-    j.src='https://www.googletagmanager.com/gtm.js?id=GTM-PLGPWWS4';
-    document.head.appendChild(j);
-  }
-  function schedule(){
-    if('requestIdleCallback' in window){requestIdleCallback(loadGTM,{timeout:3000});}
-    else{setTimeout(loadGTM,1500);}
-  }
-  if(document.readyState==='complete'){schedule();}else{window.addEventListener('load',schedule,{once:true});}
-  ['pointerdown','keydown','scroll'].forEach(function(e){window.addEventListener(e,loadGTM,{once:true,passive:true});});
+  var script=document.createElement('script');
+  script.async=true;
+  script.src='https://www.googletagmanager.com/gtm.js?id=GTM-PLGPWWS4';
+  document.head.appendChild(script);
 })();
 </script>
 <!-- End Google Tag Manager -->
@@ -34,10 +25,11 @@ window.dataLayer=window.dataLayer||[];
 <title>Mohamed Sameer, Senior Product Manager, Fintech &amp; Payments</title>
 <meta name="description" content="Senior Product Manager in Cairo. Fourteen years in technology, four in fintech and digital banking, payments, wallets, cards, and lending platforms taken from requirements to release.">
 
-<link rel="icon" href="/favicon.svg?v=20260921" type="image/svg+xml">
-<link rel="icon" href="/favicon.ico?v=20260921" sizes="any">
-<link rel="icon" href="/favicon-32.png?v=20260921" sizes="32x32" type="image/png">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20260921" sizes="180x180">
+<link rel="icon" href="/favicon.svg?v=20260923" type="image/svg+xml">
+<link rel="icon" href="/favicon.ico?v=20260923" sizes="any">
+<link rel="icon" href="/favicon-32.png?v=20260923" sizes="32x32" type="image/png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=20260923" sizes="180x180">
 
 <meta property="og:title" content="Mohamed Sameer, Senior Product Manager, Fintech &amp; Payments">
 <meta property="og:description" content="Fourteen years in technology, four in fintech and digital banking. Payments, wallets, cards, and lending platforms taken from requirements to release.">
@@ -45,7 +37,7 @@ window.dataLayer=window.dataLayer||[];
 <meta property="og:url" content="https://mohamedsameer.com/">
 <meta property="og:site_name" content="Mohamed Sameer">
 <meta property="og:locale" content="en_US">
-<meta property="og:image" content="https://mohamedsameer.com/social-card.jpg">
+<meta property="og:image" content="https://mohamedsameer.com/social-card-20260923.jpg">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:alt" content="Mohamed Sameer, Senior Product Manager for fintech, payments, and AI, based in Cairo">
 <meta property="og:image:width" content="1200">
@@ -53,7 +45,7 @@ window.dataLayer=window.dataLayer||[];
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Mohamed Sameer, Senior Product Manager, Fintech &amp; Payments">
 <meta name="twitter:description" content="Fourteen years in technology, four in fintech and digital banking. Top Rated on Upwork with a 100% Job Success Score.">
-<meta name="twitter:image" content="https://mohamedsameer.com/social-card.jpg">
+<meta name="twitter:image" content="https://mohamedsameer.com/social-card-20260923.jpg">
 <meta name="twitter:image:alt" content="Mohamed Sameer, Senior Product Manager for fintech, payments, and AI, based in Cairo">
 
 <script type="application/ld+json">
@@ -61,7 +53,7 @@ window.dataLayer=window.dataLayer||[];
 {"@type":"WebSite","@id":"https://mohamedsameer.com/#website","name":"Mohamed Sameer","url":"https://mohamedsameer.com/","inLanguage":"en","publisher":{"@id":"https://mohamedsameer.com/#person"}},
 {"@type":"ProfilePage","@id":"https://mohamedsameer.com/#home","name":"Mohamed Sameer, Senior Product Manager, Fintech & Payments","url":"https://mohamedsameer.com/","inLanguage":"en","isPartOf":{"@id":"https://mohamedsameer.com/#website"},"mainEntity":{"@id":"https://mohamedsameer.com/#person"},"primaryImageOfPage":{"@id":"https://mohamedsameer.com/#portrait"},"dateModified":"2026-09-23"},
 {"@type":"ImageObject","@id":"https://mohamedsameer.com/#portrait","url":"https://mohamedsameer.com/portrait.webp","contentUrl":"https://mohamedsameer.com/portrait.webp","width":880,"height":990,"caption":"Mohamed Sameer, Senior Product Manager"},
-{"@type":"Person","@id":"https://mohamedsameer.com/#person","name":"Mohamed Sameer","alternateName":["Mohamed Sameer Semary","semary"],"url":"https://mohamedsameer.com/","image":{"@id":"https://mohamedsameer.com/#portrait"},"jobTitle":"Senior Product Manager","email":"mailto:contactmohamedsameer@gmail.com","description":"Independent Senior Product Manager based in Cairo with fourteen years in technology, including four in fintech and digital banking. Builds payments, wallet, card, and digital lending products for teams across MENA, the GCC, Europe, and the US. Top Rated on Upwork with a 100% Job Success Score across 18+ jobs.","award":["Top Rated on Upwork","100% Job Success Score on Upwork"],"knowsLanguage":["ar","en"],"address":{"@type":"PostalAddress","addressLocality":"Cairo","addressCountry":"EG"},"alumniOf":{"@type":"EducationalOrganization","name":"OpenClassrooms","url":"https://openclassrooms.com/"},"hasOccupation":{"@type":"Occupation","name":"Senior Product Manager","occupationLocation":{"@type":"City","name":"Cairo"},"skills":"Product strategy, roadmapping, business requirements (BRD), payments, digital wallets, cards, digital lending, KYC and AML, agile delivery, product analytics"},"knowsAbout":["Product Management","Fintech","Payment Systems","Digital Wallets","Credit Cards","Digital Lending","KYC and AML","Business Analysis","Agile Delivery","Product Analytics","AI Products","MENA and GCC localisation"],"makesOffer":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Build-ready MVP package","description":"Business requirements, user flows, a clickable prototype, a technical breakdown, and prioritised first-release scope."}},
+{"@type":"Person","@id":"https://mohamedsameer.com/#person","name":"Mohamed Sameer","alternateName":["Mohamed Sameer Semary","semary"],"url":"https://mohamedsameer.com/","image":{"@id":"https://mohamedsameer.com/#portrait"},"jobTitle":"Senior Product Manager","email":"mailto:contactmohamedsameer@gmail.com","description":"Independent Senior Product Manager based in Cairo with fourteen years in technology, including four in fintech and digital banking. Builds payments, wallet, card, and digital lending products for teams across MENA, the GCC, Europe, and the US. Top Rated on Upwork with a 100% Job Success Score across 18 projects.","award":["Top Rated on Upwork"],"knowsLanguage":["ar","en"],"address":{"@type":"PostalAddress","addressLocality":"Cairo","addressCountry":"EG"},"alumniOf":{"@type":"EducationalOrganization","name":"OpenClassrooms","url":"https://openclassrooms.com/"},"hasOccupation":{"@type":"Occupation","name":"Senior Product Manager","occupationLocation":{"@type":"City","name":"Cairo"},"skills":"Product strategy, roadmapping, business requirements (BRD), payments, digital wallets, cards, digital lending, KYC and AML, agile delivery, product analytics"},"knowsAbout":["Product Management","Fintech","Payment Systems","Digital Wallets","Credit Cards","Digital Lending","KYC and AML","Business Analysis","Agile Delivery","Product Analytics","AI Products","MENA and GCC localisation"],"makesOffer":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Build-ready MVP package","description":"Business requirements, user flows, a clickable prototype, a technical breakdown, and prioritised first-release scope."}},
 {"@type":"Offer","itemOffered":{"@type":"Service","name":"Fractional product manager","description":"Ongoing, part-time support for discovery, requirements, backlog ownership, stakeholder and vendor management, release planning, and QA coordination."}},
 {"@type":"Offer","itemOffered":{"@type":"Service","name":"Product strategy and analysis","description":"Roadmap and portfolio reviews, market analysis, analytics reviews, requirements processes, and localisation for MENA and the GCC."}}],"sameAs":["https://www.linkedin.com/in/semary","https://www.upwork.com/freelancers/semary"]}]}
 </script>
@@ -528,7 +520,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="kpis">
           <div><b>Top Rated</b><small>Upwork status</small></div>
           <div><b>100%</b><small>Job Success Score</small></div>
-          <div><b>18+</b><small>Upwork jobs completed</small></div>
+          <div><b>18</b><small>Upwork projects</small></div>
         </div>
         <div class="stack">
           <span class="chip">MVP scoping</span><span class="chip">Product strategy</span><span class="chip">Business analysis</span><span class="chip">Prototyping</span>

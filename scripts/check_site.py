@@ -51,9 +51,9 @@ assert 'in opportunities identified' in html and '$8M in opportunities identifie
 assert 'IntersectionObserver' not in html and '.rv{opacity:0' not in html
 assert 'fonts.googleapis.com' not in html
 # Upwork proof must match across the page, structured data, and llms.txt.
-for proof in ['Top Rated', '100% Job Success', '18+']:
+for proof in ['Top Rated', '100% Job Success', '18']:
     assert proof in html and proof in llms, proof
-assert 'social-card.jpg' in html and (ROOT / 'social-card.jpg').is_file(), 'Social card missing'
+assert 'social-card-20260923.jpg' in html and (ROOT / 'social-card-20260923.jpg').is_file(), 'Social card missing'
 assert 'companyReference' not in html, 'Use the clean Upwork profile URL'
 print('PASS: profile consistency, local links, anchors, image metadata, structured data, and visible-by-default content')
 
