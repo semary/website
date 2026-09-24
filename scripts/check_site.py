@@ -47,7 +47,11 @@ for product in products:
     assert product in html.lower() and product in llms.lower(), product
 assert 'products under one roadmap' in html and 'six products under one roadmap' in llms
 assert 'growth, Q1 2018 to Q4 2018' in html and 'Q1 2018 to Q4 2018' in llms
-assert 'in opportunities identified' in html and '$8M in opportunities identified' in llms
+assert '$50K+' in html and '$50,000 in annual revenue after its first year' in llms
+assert '$8M' not in html + llms
+assert 'contactmohamedsameer@gmail.com' not in html + llms
+for fact in ['357', '26', '8', 'HIMS', '2028', 'mohamedsameercontact@gmail.com']:
+    assert fact in html and fact in llms, fact
 assert 'IntersectionObserver' not in html and '.rv{opacity:0' not in html
 assert 'fonts.googleapis.com' not in html
 # Upwork proof must match across the page, structured data, and llms.txt.
