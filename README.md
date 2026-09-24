@@ -1,6 +1,6 @@
 # Mohamed Sameer
 
-Personal portfolio of Mohamed Sameer, a Senior Product Manager working across fintech, payments, digital banking, and applied AI.
+Personal portfolio of Mohamed Sameer, a Product Manager and Independent Consultant working across fintech, SaaS, project delivery, and applied AI.
 
 [Visit the website](https://mohamedsameer.com/) · [LinkedIn](https://www.linkedin.com/in/semary)
 
@@ -22,4 +22,4 @@ Open `http://localhost:8765/`. Run `python3 scripts/check_site.py` to validate l
 
 ## Contact
 
-For product roles and consulting enquiries: [contactmohamedsameer@gmail.com](mailto:contactmohamedsameer@gmail.com).
+For product roles and consulting enquiries: [mohamedsameercontact@gmail.com](mailto:mohamedsameercontact@gmail.com).

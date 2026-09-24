@@ -1,46 +1,51 @@
 # Mohamed Sameer
 
-> Senior Product Manager based in Cairo, Egypt. Works across fintech, payments, digital banking, and applied AI. Available for senior product roles and consulting in Cairo, the GCC, and remotely.
+> Product Manager and Independent Consultant based in Cairo, Egypt. Works across fintech, SaaS, project delivery and applied AI. Open to remote roles worldwide, with a focus on Saudi Arabia, the GCC and Egypt, and available for consulting.
 
-Professional background, selected work, and services. Updated September 2026.
-
-Currently independent. Top Rated on Upwork with a 100% Job Success Score across 18 projects (as of September 2026).
+Professional background, selected work and services. Updated 24 September 2026.
 
 ## Profile
 
-Fourteen years in technology, including four in fintech and digital banking. Works in Arabic and English across discovery, business requirements, roadmapping, delivery, testing, and launch.
+10+ years across digital products, strategy and delivery in fintech, SaaS and edtech. Combines product leadership with hands-on agentic AI workflows for rapid prototyping, requirements analysis, UI/UX reviews and structured documentation. Arabic: native. English: full professional proficiency.
+
+Independent since September 2023, full-time since March 2026. Top Rated on Upwork with a 100% Job Success Score and 18 projects, confirmed September 2026. Delivered 15+ international consulting projects.
 
 ## Selected work
 
-- **SilverKey Technologies, Product Manager (September 2022–March 2026):** Owned roadmap and delivery across six products under one roadmap: consumer app, merchant portal, corporate portal, mobile wallet, bill payments, and digital lending. Also worked on a food delivery product and an AI-supported interview tool, outside that six-product banking suite.
-- **Independent practice (2023–present):** Product strategy, MVP scoping, requirements, and product reviews for founders and teams in the United States, Turkey, Europe, and the GCC. Top Rated on Upwork, 100% Job Success Score, 18 projects.
-- **Tqweem, Product Manager (2017–2019):** Built B2C and B2B platforms on web and mobile. 60% growth from Q1 2018 to Q4 2018 on less than 30% of the prior year's budget, and $8M in opportunities identified.
-- **S3Geeks, Executive Officer (2011–2017):** Helped build a technology community in Upper Egypt. 16,500+ members across 10 cities and 3,000+ workshops.
-- **Tawasol Academy, Product Manager (2020):** Worked on an education livestreaming launch within a four-month window. Reached millions of organic views in two weeks.
-- **Coinaat, Founder (2017–present):** Built an Arabic blockchain content and community platform reaching approximately 10,000 monthly readers at its peak.
-- **SciComm X, Product Manager (2021–2022):** Based in Abu Dhabi.
+- **Independent practice / Upwork, Product Manager and Independent Consultant (September 2023–present):** Product strategy, MVP definition, SaaS and AI-enabled product advisory, and delivery coordination for international clients. Defined embedded-finance use cases and MVP scope for a Saudi client across four delivery milestones.
+- **Applied AI review:** Compared fintech merchant-app requirements with design content across 357 screens and states, producing 26 prioritised findings and 8 delivery gaps. Directs AI agents through source preparation, task decomposition, iterative review and validation against acceptance criteria.
+- **SilverKey Technologies, Product Manager (September 2022–March 2026):** Owned six products under one roadmap: consumer app, merchant portal, corporate portal, mobile wallet, bill payments and digital lending. Led a cross-functional Agile team of 12+ from discovery through UAT and release. Owned lending and BNPL workflows, configurable credit eligibility and approval rules, and card, wallet, bill-payment and merchant-acquiring integrations.
+- **Scicom X, Product Manager (November 2021–February 2022):** Managed a subscription content platform across web and mobile and an Arabic newsletter tool, covering subscriptions, editorial workflows, templates and retention analytics.
+- **Tawasol Academy, Product Manager (April–July 2020, contract):** Validated an education content product through research and A/B testing. Launched a livestreaming service that reached millions of organic views in its first two weeks.
+- **Tqweem Masr, Founding Product Manager (January 2017–December 2019):** Built the product function across authoring tools, the learning platform and administration systems. Launched a B2B schools programme generating more than $50,000 in annual revenue after its first year. Achieved 60% user growth from Q1 2018 to Q4 2018 using less than 30% of the previous year's budget.
+- **AlMunif Holding, Product Management Consultant (July–September 2019):** Remote contract for a Saudi holding company spanning retail, food, logistics and distribution.
+- **Cournal Agency, Digital Account Manager (May 2016–July 2018):** Managed 10+ clients remotely across Europe and the GCC, coordinating campaigns, creative delivery and performance reporting.
+- **S3Geeks, Product Strategist and Executive Officer (June 2011–January 2017):** Led distributed teams and regional programmes. Executive Officer from April 2016; represented the organisation at a World Bank conference in Marseille in 2016.
+
+## Education and training
+
+- Bachelor of Business Administration, Higher Institute of Management Sciences (HIMS): in progress, Year 3, expected July 2028.
+- Digital Project Management coursework, OpenClassrooms, 2019–2020.
+- Google Project Management Professional Certificate.
+- Product Masterclass: How to Build Digital Products, Product School, 2020.
+- Become an Agile Project Manager, LinkedIn Learning, 2019.
 
 ## Ways to work together
 
-- **Build-ready MVP package:** Business requirements, user flows, a clickable prototype, a technical breakdown, and prioritised first-release scope. Scope and timing agreed together.
-- **Fractional product manager:** Ongoing, part-time support for discovery, requirements, backlog ownership, stakeholder and vendor management, release planning, and QA coordination.
-- **Product strategy and analysis:** Roadmap and portfolio reviews, market analysis, analytics reviews, requirements processes, and localisation for MENA and the GCC.
+- **Build-ready MVP package:** Requirements, user flows, clickable prototypes, technical breakdowns and prioritised scope.
+- **Fractional product manager:** Ongoing support for discovery, requirements, backlog ownership, delivery coordination, stakeholder management and release planning.
+- **Product strategy and analysis:** Roadmap and portfolio reviews, market analysis, requirements and design reviews, analytics, and localisation for MENA and the GCC.
 
-## Quick answers
+## Tools
 
-- **Who is Mohamed Sameer?** A Senior Product Manager based in Cairo, Egypt, specialising in fintech: payments, mobile wallets, cards, and digital lending.
-- **Is he available?** Yes, for senior product roles and consulting engagements in Egypt, the GCC, and remotely.
-- **How can teams work with him?** A build-ready MVP package, fractional (part-time) product management, or product strategy and analysis reviews.
-- **What languages does he work in?** Arabic and English.
-- **What is his Upwork track record?** Top Rated, 100% Job Success Score, 18 projects.
-- **How do I contact him?** contactmohamedsameer@gmail.com
+Codex, ChatGPT, Claude, Gemini; Jira, Confluence, ProductPlan; Figma, Miro, Balsamiq; Mixpanel, Amplitude, Google Analytics, Hotjar and Microsoft Clarity.
 
 ## Links
 
-- [Portfolio and current profile](https://mohamedsameer.com/)
+- [Portfolio](https://mohamedsameer.com/)
 - [Selected work](https://mohamedsameer.com/#work)
 - [Services](https://mohamedsameer.com/#services)
-- [CV](https://mohamedsameer.com/Mohamed_Sameer_CV.pdf)
+- [CV](https://mohamedsameer.com/Mohamed_Sameer_CV.pdf?v=20260924)
 - [LinkedIn](https://www.linkedin.com/in/semary)
 - [Upwork](https://www.upwork.com/freelancers/semary)
-- [Email](mailto:contactmohamedsameer@gmail.com)
+- [Email](mailto:mohamedsameercontact@gmail.com)
