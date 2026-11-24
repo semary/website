@@ -45,3 +45,11 @@
 
 /socialcard.png
   Cache-Control: public, max-age=0, must-revalidate
+
+/Mohamed-Sameer-Work-Samples.pdf
+  Content-Type: application/pdf
+  Content-Disposition: inline; filename="Mohamed-Sameer-Work-Samples.pdf"
+  Cache-Control: public, max-age=0, must-revalidate
+
+/social-card-20261124.jpg
+  Cache-Control: public, max-age=31536000, immutable

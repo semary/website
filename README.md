@@ -1,6 +1,6 @@
 # Mohamed Sameer
 
-Personal portfolio of Mohamed Sameer, a Product Manager and Independent Consultant working across fintech, SaaS, project delivery, and applied AI.
+Consulting portfolio of Mohamed Sameer, an independent product consultant for fintech and SaaS teams. Clients can hire him through Upwork.
 
 [Visit the website](https://mohamedsameer.com/) · [LinkedIn](https://www.linkedin.com/in/semary)
 
@@ -22,4 +22,4 @@ Open `http://localhost:8765/`. Run `python3 scripts/check_site.py` to validate l
 
 ## Contact
 
-For product roles and consulting enquiries: [mohamedsameercontact@gmail.com](mailto:mohamedsameercontact@gmail.com).
+For consulting enquiries: [mohamedsameercontact@gmail.com](mailto:mohamedsameercontact@gmail.com).

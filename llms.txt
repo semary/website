@@ -1,19 +1,17 @@
-# Mohamed Sameer
+# Mohamed Sameer | Independent Product Consultant
 
-> Product Manager and Independent Consultant based in Cairo, Egypt. Works across fintech, SaaS, project delivery and applied AI. Open to remote roles worldwide, with a focus on Saudi Arabia, the GCC and Egypt, and available for consulting.
-
-Professional background, selected work and services. Updated 24 September 2026.
+Cairo-based product manager and freelancer working in Arabic and English. Clients can hire Mohamed through Upwork for discovery, vendor evaluation, prototyping and delivery support. Updated 24 November 2026.
 
 ## Profile
 
-10+ years across digital products, strategy and delivery in fintech, SaaS and edtech. Combines product leadership with hands-on agentic AI workflows for rapid prototyping, requirements analysis, UI/UX reviews and structured documentation. Arabic: native. English: full professional proficiency.
-
-Independent since September 2023, full-time since March 2026. Top Rated on Upwork with a 100% Job Success Score and 18 projects, confirmed September 2026. Delivered 15+ international consulting projects.
+10+ years in digital products and 15+ international consulting projects. Independent practice since September 2023, full-time since March 2026. Upwork profile on 24 November 2026: Top Rated, 100% Job Success, 22 completed jobs.
 
 ## Selected work
 
 - **Independent practice / Upwork, Product Manager and Independent Consultant (September 2023–present):** Product strategy, MVP definition, SaaS and AI-enabled product advisory, and delivery coordination for international clients. Defined embedded-finance use cases and MVP scope for a Saudi client across four delivery milestones.
-- **Applied AI review:** Compared fintech merchant-app requirements with design content across 357 screens and states, producing 26 prioritised findings and 8 delivery gaps. Directs AI agents through source preparation, task decomposition, iterative review and validation against acceptance criteria.
+- **Lahint, Product Management Consultant, July–August 2026.** Compared vendor proposals against requirements for the consumer and merchant apps and clarified expected deliverables. Remote contract.
+- **Lahint, Product Manager, September 2026–present.** Part-time, remote from Cairo. Defines credit, payment and repayment rules. Built bilingual prototypes to trace simulated purchases across confirmation, receipts and history. Compared 357 screens and states against requirements, visually inspected 15 frames in detail and recorded 26 prioritized findings and 8 coverage gaps.
+- **Selected projects.** Saudi embedded-finance MVP scope across four milestones, an AI product direction audit, personalized audio feedback and playback QA, B2B ordering, and a fictional scheduling UAT example in the work samples.
 - **SilverKey Technologies, Product Manager (September 2022–March 2026):** Owned six products under one roadmap: consumer app, merchant portal, corporate portal, mobile wallet, bill payments and digital lending. Led a cross-functional Agile team of 12+ from discovery through UAT and release. Owned lending and BNPL workflows, configurable credit eligibility and approval rules, and card, wallet, bill-payment and merchant-acquiring integrations.
 - **Scicom X, Product Manager (November 2021–February 2022):** Managed a subscription content platform across web and mobile and an Arabic newsletter tool, covering subscriptions, editorial workflows, templates and retention analytics.
 - **Tawasol Academy, Product Manager (April–July 2020, contract):** Validated an education content product through research and A/B testing. Launched a livestreaming service that reached millions of organic views in its first two weeks.
@@ -30,11 +28,11 @@ Independent since September 2023, full-time since March 2026. Top Rated on Upwor
 - Product Masterclass: How to Build Digital Products, Product School, 2020.
 - Become an Agile Project Manager, LinkedIn Learning, 2019.
 
-## Ways to work together
+## Consulting services
 
-- **Build-ready MVP package:** Requirements, user flows, clickable prototypes, technical breakdowns and prioritised scope.
-- **Fractional product manager:** Ongoing support for discovery, requirements, backlog ownership, delivery coordination, stakeholder management and release planning.
-- **Product strategy and analysis:** Roadmap and portfolio reviews, market analysis, requirements and design reviews, analytics, and localisation for MENA and the GCC.
+- **MVP discovery and scope**. Bring the idea, the constraints and the people who will use it. I map the essential journey and help you choose a first release your team can estimate.
+- **Vendor and product reviews**. Give me competing proposals, designs or a working prototype. I compare each one with the brief and identify the gaps that could change your decision.
+- **Prototyping and delivery support**. I work with your team to turn open decisions into an interactive prototype, then test what happens across roles, languages and failure states.
 
 ## Tools
 
@@ -43,9 +41,10 @@ Codex, ChatGPT, Claude, Gemini; Jira, Confluence, ProductPlan; Figma, Miro, Bals
 ## Links
 
 - [Portfolio](https://mohamedsameer.com/)
+- [Detailed work samples PDF](https://mohamedsameer.com/Mohamed-Sameer-Work-Samples.pdf)
 - [Selected work](https://mohamedsameer.com/#work)
 - [Services](https://mohamedsameer.com/#services)
-- [CV](https://mohamedsameer.com/Mohamed_Sameer_CV.pdf?v=20260924)
+- [CV](https://mohamedsameer.com/Mohamed_Sameer_CV.pdf?v=20261124)
 - [LinkedIn](https://www.linkedin.com/in/semary)
 - [Upwork](https://www.upwork.com/freelancers/semary)
 - [Email](mailto:mohamedsameercontact@gmail.com)
