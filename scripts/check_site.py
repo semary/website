@@ -49,18 +49,22 @@ for data in re.findall(r'<script type="application/ld\+json">(.*?)</script>', ht
 products = ['consumer app', 'merchant portal', 'corporate portal', 'mobile wallet', 'bill payments', 'digital lending']
 for product in products:
     assert product in html.lower() and product in llms.lower(), product
-assert 'six banking products' in html and 'six products under one roadmap' in llms
+assert 'six products under one roadmap' in llms
 assert 'Q1 to Q4 2018' in html and 'Q1 2018 to Q4 2018' in llms
-assert '$50,000 in annual revenue after its first year' in html and '$50,000 in annual revenue after its first year' in llms
+assert 'B2B schools program' in html and '$50,000 in annual revenue after its first year' in llms
 assert '$8M' not in html + llms
 assert 'contactmohamedsameer@gmail.com' not in html + llms
 for fact in ['357', '26', '8', 'HIMS', '2028', 'mohamedsameercontact@gmail.com']:
     assert fact in html and fact in llms, fact
 assert 'IntersectionObserver' not in html and '.rv{opacity:0' not in html
 assert 'fonts.googleapis.com' not in html
-# Upwork profile figures were checked on 24 November 2026.
-for proof in ['Top Rated', '100%', '22']:
-    assert proof in html and proof in llms, proof
+# Published proof and the sprint audience should agree in both descriptions.
+visible_copy = ' '.join(re.sub(r'<[^>]+>', ' ', html).split())
+for copy in [visible_copy, llms]:
+    for phrase in ['18 completed Upwork jobs', 'MENA Market-Entry Sprint', 'Saudi Arabia, Egypt or the UAE']:
+        assert phrase in copy, phrase
+    for old_claim in ['Top Rated', '100% Upwork Job Success', '100% Job Success', '22 completed', '15+ international', 'Egyptian founders']:
+        assert old_claim.casefold() not in copy.casefold(), old_claim
 assert 'social-card-20261124.jpg' in html and (ROOT / 'social-card-20261124.jpg').is_file(), 'Social card missing'
 assert 'companyReference' not in html, 'Use the clean Upwork profile URL'
 print('PASS: profile consistency, local links, anchors, image metadata, structured data, and visible-by-default content')

@@ -1,14 +1,16 @@
 # Mohamed Sameer | Independent Product Consultant
 
-Cairo-based independent product consultant for seed-stage Egyptian founders planning to enter Saudi Arabia or the UAE. Works in Arabic and English. Updated 25 November 2026.
+Cairo-based independent product consultant for founders worldwide planning to enter Saudi Arabia, Egypt or the UAE. Works in Arabic and English. Updated 25 November 2026.
 
-## Gulf Market-Entry Sprint
+## MENA Market-Entry Sprint
+
+For founders anywhere in the world planning their first steps in Saudi Arabia, Egypt or the UAE. Best fit for fintech and SaaS products.
 
 A market study covers likely buyers, evidence of demand, competitors and pricing. A general legal and licensing overview identifies questions to confirm with a local adviser. A 90-day entry plan covers first customers, potential partners, hiring and budget. The sprint takes 14 days and includes a PDF and a one-hour call. Mohamed and the founder agree on one fixed price of USD 500–800 before work begins. To arrange a 20-minute introductory call, email mohamedsameercontact@gmail.com.
 
 ## Profile
 
-10+ years in digital products, including fintech and SaaS, and 15+ international consulting projects. Independent practice since September 2023. Alongside his practice, Mohamed is a Product Manager at Lahint, a Gulf fintech. Upwork profile on 24 November 2026: Top Rated, 100% Job Success, 22 completed jobs.
+10+ years in digital products across fintech and SaaS. Independent practice since September 2023. Mohamed is also a Product Manager at Lahint, a Gulf fintech, where he builds and tests payment products for Arabic and English users. 18 completed Upwork jobs.
 
 ## Selected work
 
@@ -47,9 +49,9 @@ Codex, ChatGPT, Claude, Gemini; Jira, Confluence, ProductPlan; Figma, Miro, Bals
 - [Portfolio](https://mohamedsameer.com/)
 - [Detailed work samples PDF](https://mohamedsameer.com/Mohamed-Sameer-Work-Samples.pdf)
 - [Selected work](https://mohamedsameer.com/#work)
-- [Gulf Market-Entry Sprint](https://mohamedsameer.com/#gulf-market-entry-sprint)
+- [MENA Market-Entry Sprint](https://mohamedsameer.com/#gulf-market-entry-sprint)
 - [Services](https://mohamedsameer.com/#services)
-- [CV](https://mohamedsameer.com/Mohamed_Sameer_CV.pdf?v=20261124)
+- [CV](https://mohamedsameer.com/Mohamed_Sameer_CV.pdf?v=20261125)
 - [LinkedIn](https://www.linkedin.com/in/semary)
 - [Upwork](https://www.upwork.com/freelancers/semary)
 - [Email](mailto:mohamedsameercontact@gmail.com)
